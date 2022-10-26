@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ---
+![counter](https://en3u0zpc8nexd5s.m.pipedream.net)
+---
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -31,8 +35,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+---
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+---
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jorris-N)](https://git.io/streak-stats)
+---
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jorris-N)](https://git.io/streak-stats)
-
-![counter](https://en3u0zpc8nexd5s.m.pipedream.net)
